@@ -133,5 +133,3 @@ dist/validador-microapp.skill     pacote pronto para instalar
 ## Licença
 
 MIT. Use, modifique e distribua à vontade — inclusive com seus alunos.
-
-Inspirado no [venture-analyst](https://github.com/veyralabsgroup/venture-analyst) (VeyraLabs), adaptado para micro-soluções.
